@@ -1,0 +1,3 @@
+testing
+hasATimeStamp
+	^ timeStamp notNil

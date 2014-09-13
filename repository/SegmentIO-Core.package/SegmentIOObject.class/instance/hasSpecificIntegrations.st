@@ -1,0 +1,3 @@
+testing
+hasSpecificIntegrations
+	^ integrations notNil

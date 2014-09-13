@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SegmentIO-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Queue",
+		"QueueLastProcessedTime",
+		"RandomNumberGenerator"
+	],
+	"instvars" : [ ],
+	"name" : "SegmentIOSystem",
+	"type" : "normal"
+}

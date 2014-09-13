@@ -1,0 +1,34 @@
+{
+	"instance" : {
+		"hasSpecificIntegrations" : "PaulDeBruicker 9/12/2014 14:30",
+		"initialize" : "PaulDeBruicker 9/12/2014 09:42",
+		"addIntegration:" : "PaulDeBruicker 9/12/2014 10:36",
+		"integrations:" : "PaulDeBruicker 9/12/2014 07:55",
+		"addContextToJsonData:" : "PaulDeBruicker 9/12/2014 14:29",
+		"hasATimeStamp" : "PaulDeBruicker 9/12/2014 14:30",
+		"context" : "PaulDeBruicker 9/12/2014 07:55",
+		"timeStamp:" : "PaulDeBruicker 9/12/2014 07:56",
+		"traits" : "PaulDeBruicker 9/12/2014 07:54",
+		"traitsOrProperties" : "PaulDeBruicker 9/12/2014 07:54",
+		"contextAt:put:" : "PaulDeBruicker 9/12/2014 14:35",
+		"context:" : "PaulDeBruicker 9/12/2014 07:56",
+		"properties:" : "PaulDeBruicker 9/12/2014 07:55",
+		"addTraitsToJsonData:" : "PaulDeBruicker 9/12/2014 14:28",
+		"name:" : "PaulDeBruicker 9/12/2014 08:01",
+		"properties" : "PaulDeBruicker 9/12/2014 07:54",
+		"traits:" : "PaulDeBruicker 9/12/2014 07:55",
+		"addPropertiesToJsonData:" : "PaulDeBruicker 9/12/2014 14:28",
+		"hasContext" : "PaulDeBruicker 9/12/2014 14:29",
+		"integrations" : "PaulDeBruicker 9/12/2014 10:36",
+		"removeIntegration:" : "PaulDeBruicker 9/12/2014 10:36",
+		"propertyAt:put:" : "PaulDeBruicker 9/12/2014 07:58",
+		"traitAt:put:" : "PaulDeBruicker 9/12/2014 07:58",
+		"addIntegrationsToJsonData:" : "PaulDeBruicker 9/12/2014 14:30",
+		"timeStamp" : "PaulDeBruicker 9/12/2014 07:56",
+		"hasTraitsOrProperties" : "PaulDeBruicker 9/12/2014 14:28",
+		"addTimeStampToJsonData:" : "PaulDeBruicker 9/12/2014 14:30"
+	},
+	"class" : {
+		"name:" : "PaulDeBruicker 9/12/2014 09:55"
+	}
+}

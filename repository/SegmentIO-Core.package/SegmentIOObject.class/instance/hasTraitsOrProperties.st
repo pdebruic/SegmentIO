@@ -1,0 +1,3 @@
+testing
+hasTraitsOrProperties
+	^ traitsOrProperties notNil

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SegmentIOObject",
+	"category" : "SegmentIO-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user",
+		"eventName"
+	],
+	"name" : "SegmentIOEvent",
+	"type" : "normal"
+}

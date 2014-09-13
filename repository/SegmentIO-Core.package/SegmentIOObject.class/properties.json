@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SegmentIO-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"context",
+		"timeStamp",
+		"integrations",
+		"traitsOrProperties"
+	],
+	"name" : "SegmentIOObject",
+	"type" : "normal"
+}
