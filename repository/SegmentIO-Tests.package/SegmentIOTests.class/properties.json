@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PaulDeBruicker 9/12/2014 14:41",
+	"super" : "TestCase",
+	"category" : "SegmentIO-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user"
+	],
+	"name" : "SegmentIOTests",
+	"type" : "normal"
+}
