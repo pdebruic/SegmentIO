@@ -1,5 +1,5 @@
 http-client
 httpClient
-	^ self httpAPIClientClass new
+	^ HTTPAPIClient httpClient
 		username: self apiKey password: '';
 		yourself
