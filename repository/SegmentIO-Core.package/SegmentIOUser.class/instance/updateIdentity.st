@@ -1,3 +1,3 @@
 actions
 updateIdentity
-	^ SegmentIOSystem identifyUser: self
+	SegmentIOSystem identifyUser: self

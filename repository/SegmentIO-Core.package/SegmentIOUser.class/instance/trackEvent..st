@@ -1,6 +1,6 @@
 events
 trackEvent: aSegmentIOEvent
-	^ SegmentIOSystem
+	SegmentIOSystem
 		trackEvent:
 			(aSegmentIOEvent
 				user: self;

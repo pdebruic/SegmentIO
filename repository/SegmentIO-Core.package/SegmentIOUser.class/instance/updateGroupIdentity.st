@@ -1,3 +1,3 @@
 accessing
-sendGroupNotification
+updateGroupIdentity
 	SegmentIOSystem associate: self withGroup: group
