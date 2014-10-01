@@ -1,3 +1,3 @@
 testing
 debug
-	^true
+	^ false

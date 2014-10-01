@@ -1,3 +1,3 @@
 testing
 isBatchingRequests
-	^ false
+	^ self debug not

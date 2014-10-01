@@ -5,7 +5,7 @@
 		"httpClient" : "PaulDeBruicker 9/28/2014 20:00",
 		"randomId" : "PaulDeBruicker 9/12/2014 12:30",
 		"randomNumberGenerator" : "PaulDeBruicker 9/12/2014 12:30",
-		"debug" : "PaulDeBruicker 9/12/2014 13:24",
+		"debug" : "PaulDeBruicker 10/1/2014 12:13",
 		"groupUrl" : "PaulDeBruicker 9/12/2014 12:21",
 		"enqueue:" : "PaulDeBruicker 9/12/2014 12:31",
 		"queueProcessingSize" : "PaulDeBruicker 9/12/2014 14:39",
@@ -28,7 +28,7 @@
 		"identifyUser:" : "PaulDeBruicker 9/12/2014 13:12",
 		"handleResponse:" : "PaulDeBruicker 9/12/2014 13:06",
 		"randomId:" : "PaulDeBruicker 9/12/2014 12:30",
-		"isBatchingRequests" : "PaulDeBruicker 9/29/2014 09:02",
+		"isBatchingRequests" : "PaulDeBruicker 10/1/2014 12:13",
 		"processQueueIfNecessary" : "PaulDeBruicker 9/12/2014 12:36",
 		"queue" : "PaulDeBruicker 9/12/2014 10:43",
 		"identifyUrl" : "PaulDeBruicker 9/12/2014 12:20"
