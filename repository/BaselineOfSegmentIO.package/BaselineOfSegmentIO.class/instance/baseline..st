@@ -8,11 +8,11 @@ baseline: spec
 				baseline: 'HTTPAPIClient'
 					with: [ 
 							spec
-								repository: 'github://pdebruic/HTTPAPIClient/repository' ];
+								repository: 'github://pdebruic/HTTPAPIClient:main/repository' ];
 				baseline: 'JSON'
 					with: [ 
 							spec
-								repository: 'github://pdebruic/JSON/repository'  ].
+								repository: 'github://pdebruic/JSON:main/repository'  ].
 			spec
 				package: 'SegmentIO-Core' with: [ spec requires: #('HTTPAPIClient' 'JSON') ];
 				package: 'SegmentIO-Tests' with: [ spec requires: #('SegmentIO-Core') ].
